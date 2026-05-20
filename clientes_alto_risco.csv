@@ -1,0 +1,215 @@
+cliente,valor_fatura,dias_atraso,segmento,regiao,historico_atraso,tempo_relacionamento_meses,quantidade_cobrancas,pagou_em_dia,risco
+Melo da Conceição S/A,32151.63,35,Indústria,BA,Sim,32,3,Sim,Alto
+Aragão Teixeira S/A,5573.51,75,Varejo,SP,Sim,55,0,Não,Alto
+Souza Ltda.,11322.58,71,Financeiro,RS,Sim,26,10,Não,Alto
+Castro,23241.53,48,Tecnologia,BA,Sim,11,8,Não,Alto
+Rodrigues - ME,13715.4,77,Saúde,BA,Sim,82,2,Não,Alto
+Duarte - EI,12618.14,3,Financeiro,RS,Não,35,10,Sim,Alto
+das Neves,13753.17,72,Indústria,BA,Sim,113,5,Não,Alto
+Peixoto,28287.72,5,Saúde,PR,Não,75,6,Sim,Alto
+Ferreira,18418.82,65,Varejo,SP,Sim,64,1,Não,Alto
+Pires,8065.65,87,Varejo,PR,Sim,55,9,Não,Alto
+Cunha - EI,19390.15,4,Varejo,BA,Não,33,8,Sim,Alto
+Barbosa,8328.81,33,Saúde,SP,Sim,65,2,Sim,Alto
+Mendes - ME,43590.67,5,Indústria,RJ,Não,65,9,Sim,Alto
+Moraes da Rosa S.A.,19008.74,69,Varejo,RS,Sim,100,8,Não,Alto
+Vieira,16545.72,14,Tecnologia,RJ,Sim,119,5,Sim,Alto
+Sales,3367.3,10,Varejo,RS,Sim,94,7,Sim,Alto
+Caldeira,38408.8,84,Indústria,MG,Sim,61,8,Não,Alto
+Porto,26619.85,1,Financeiro,BA,Não,119,8,Sim,Alto
+Nascimento,10456.98,3,Tecnologia,PR,Não,86,10,Sim,Alto
+da Conceição,1541.2,75,Varejo,BA,Sim,29,0,Não,Alto
+Nascimento Barros S/A,31739.6,8,Tecnologia,SP,Sim,116,0,Sim,Alto
+Martins,36305.95,1,Serviços,RJ,Não,101,7,Sim,Alto
+da Rocha Sales e Filhos,5169.13,2,Serviços,BA,Não,55,6,Sim,Alto
+Farias,3181.47,7,Varejo,RJ,Sim,52,5,Sim,Alto
+Ramos,12865.42,56,Varejo,SP,Sim,104,8,Não,Alto
+Novaes,32781.17,11,Indústria,PR,Sim,119,3,Sim,Alto
+Mendes,24539.24,51,Indústria,PR,Sim,116,0,Não,Alto
+Lima,606.69,2,Tecnologia,PR,Não,119,7,Sim,Alto
+Rodrigues Farias Ltda.,29169.42,40,Saúde,PR,Sim,8,0,Sim,Alto
+Moraes Pires Ltda.,25391.09,7,Indústria,SP,Sim,66,1,Sim,Alto
+Castro da Costa S/A,29954.24,51,Indústria,RS,Sim,16,9,Não,Alto
+Silveira Campos Ltda.,29928.7,53,Saúde,RS,Sim,85,9,Não,Alto
+Carvalho e Filhos,31247.38,9,Saúde,MG,Sim,69,3,Sim,Alto
+das Neves,8308.47,4,Saúde,SP,Não,104,10,Sim,Alto
+Freitas e Filhos,44540.78,34,Indústria,BA,Sim,37,9,Não,Alto
+Cavalcanti,49000.0,56,Saúde,SP,Sim,71,6,Não,Alto
+da Rocha S/A,6037.76,69,Saúde,RS,Sim,5,5,Não,Alto
+Castro,7830.64,5,Varejo,MG,Sim,40,5,Sim,Alto
+Rocha - EI,10898.79,85,Saúde,PR,Sim,14,5,Não,Alto
+Monteiro Silva S/A,48704.93,30,Indústria,PR,Sim,111,2,Sim,Alto
+Rezende Costa e Filhos,1726.92,3,Financeiro,RJ,Não,103,10,Sim,Alto
+Fogaça,13706.88,48,Serviços,RJ,Sim,112,0,Sim,Alto
+Fogaça - EI,32253.35,5,Tecnologia,SP,Não,108,8,Sim,Alto
+Dias Duarte e Filhos,49219.67,49,Indústria,MG,Sim,116,9,Não,Alto
+Ramos da Mata - ME,2697.13,0,Financeiro,BA,Não,67,8,Sim,Alto
+Carvalho S/A,47043.02,46,Financeiro,MG,Sim,56,1,Não,Alto
+Monteiro,31346.19,38,Financeiro,PR,Sim,65,4,Não,Alto
+Mendes S/A,47048.0,78,Serviços,RS,Sim,73,4,Não,Alto
+Rodrigues,41769.4,2,Saúde,RS,Não,27,6,Sim,Alto
+Araújo,32907.93,3,Indústria,RS,Não,57,10,Sim,Alto
+Lopes,23922.72,84,Saúde,BA,Sim,11,4,Não,Alto
+Almeida e Filhos,11619.71,18,Indústria,PR,Sim,4,0,Sim,Alto
+Moraes - ME,30758.06,58,Saúde,RJ,Sim,54,10,Não,Alto
+Castro Cavalcanti - ME,34537.31,54,Financeiro,RS,Sim,29,2,Não,Alto
+Nascimento,23495.22,15,Serviços,BA,Sim,59,2,Sim,Alto
+Teixeira da Mata S.A.,26791.03,3,Serviços,RS,Não,79,8,Sim,Alto
+Melo,22572.72,60,Indústria,BA,Sim,58,4,Não,Alto
+Farias,35820.47,34,Saúde,SP,Sim,43,5,Não,Alto
+Souza,7349.52,49,Financeiro,RJ,Sim,89,2,Não,Alto
+Fogaça e Filhos,3679.33,2,Serviços,SP,Não,70,7,Sim,Alto
+Gonçalves,10738.3,3,Financeiro,SP,Não,116,9,Sim,Alto
+da Paz da Cunha S.A.,42745.67,4,Saúde,RJ,Não,96,8,Sim,Alto
+Almeida,33609.24,5,Indústria,RS,Não,22,7,Sim,Alto
+das Neves,26939.12,4,Varejo,SP,Não,73,10,Sim,Alto
+Ferreira S.A.,32316.11,59,Tecnologia,PR,Sim,24,0,Não,Alto
+Fernandes,16703.96,2,Tecnologia,PR,Não,44,6,Sim,Alto
+Monteiro,12987.44,60,Varejo,MG,Sim,3,8,Não,Alto
+da Luz,11599.0,83,Indústria,RJ,Sim,6,0,Não,Alto
+da Rosa,42041.83,30,Financeiro,SP,Sim,17,7,Não,Alto
+Rocha S/A,28416.49,59,Tecnologia,RJ,Sim,90,4,Não,Alto
+Porto Correia S/A,30491.69,20,Saúde,SP,Sim,40,1,Sim,Alto
+Monteiro S.A.,34685.41,13,Financeiro,RS,Sim,90,4,Sim,Alto
+Peixoto,40373.63,44,Financeiro,MG,Sim,69,6,Não,Alto
+Campos,3913.36,0,Serviços,SP,Não,109,6,Sim,Alto
+Fogaça Monteiro e Filhos,21959.41,5,Financeiro,RJ,Não,115,7,Sim,Alto
+da Rosa da Conceição Ltda.,22056.61,4,Serviços,PR,Não,104,8,Sim,Alto
+da Paz,44140.74,59,Financeiro,PR,Sim,73,9,Não,Alto
+Farias,17151.63,2,Indústria,MG,Não,24,7,Sim,Alto
+Lima - ME,39992.7,2,Financeiro,MG,Não,113,9,Sim,Alto
+Silveira Teixeira - EI,28011.66,10,Serviços,RS,Sim,31,6,Sim,Alto
+Rocha - EI,38029.15,5,Serviços,SP,Não,92,7,Sim,Alto
+Oliveira Ltda.,5106.14,51,Tecnologia,BA,Sim,89,3,Não,Alto
+Novaes S/A,11911.63,40,Financeiro,RJ,Sim,16,8,Não,Alto
+Duarte Souza S.A.,9981.28,2,Saúde,RS,Não,93,9,Sim,Alto
+da Cunha,14508.44,24,Tecnologia,RJ,Sim,38,3,Sim,Alto
+Porto - ME,15462.25,35,Saúde,MG,Sim,6,0,Sim,Alto
+Rocha Costela - ME,35022.16,81,Varejo,SP,Sim,112,7,Não,Alto
+da Conceição,4167.07,19,Tecnologia,SP,Sim,20,9,Não,Alto
+Silveira,49698.95,71,Saúde,RS,Sim,98,6,Não,Alto
+Correia,39641.67,66,Serviços,MG,Sim,49,7,Não,Alto
+Araújo da Conceição - EI,43078.25,2,Varejo,RS,Não,73,9,Sim,Alto
+da Costa,48025.38,26,Tecnologia,BA,Sim,81,3,Sim,Alto
+Moraes,4518.78,22,Indústria,SP,Sim,71,1,Sim,Alto
+Fogaça,29694.58,54,Indústria,BA,Sim,15,8,Não,Alto
+Pires Ltda.,29954.68,3,Financeiro,MG,Não,16,7,Sim,Alto
+Santos,35136.82,4,Serviços,SP,Não,70,7,Sim,Alto
+Peixoto,30102.81,5,Tecnologia,SP,Não,42,9,Sim,Alto
+Rezende Farias S/A,5020.68,86,Saúde,SP,Sim,106,4,Não,Alto
+Pereira S/A,38273.9,60,Serviços,MG,Sim,67,10,Não,Alto
+Teixeira S.A.,9483.71,5,Varejo,PR,Não,105,7,Sim,Alto
+Araújo - ME,20876.43,2,Saúde,SP,Não,85,6,Sim,Alto
+Costa,41333.9,84,Serviços,PR,Sim,112,8,Não,Alto
+Nunes Peixoto S.A.,3183.1,4,Financeiro,PR,Não,97,7,Sim,Alto
+Teixeira S.A.,38119.53,34,Tecnologia,PR,Sim,71,2,Sim,Alto
+Costa,44101.91,0,Saúde,RJ,Não,4,10,Sim,Alto
+da Costa,35634.25,4,Serviços,SP,Não,2,8,Sim,Alto
+da Mota - ME,11622.68,59,Indústria,PR,Sim,16,10,Não,Alto
+Gomes Ltda.,49022.11,58,Serviços,RJ,Sim,71,2,Não,Alto
+Barros Farias e Filhos,46132.47,8,Tecnologia,RS,Sim,36,6,Sim,Alto
+da Paz S/A,13725.05,36,Saúde,RS,Sim,93,4,Não,Alto
+Jesus,49945.67,1,Serviços,MG,Não,58,8,Sim,Alto
+Porto,12320.87,1,Varejo,MG,Não,110,6,Sim,Alto
+Duarte,37362.91,3,Indústria,PR,Não,85,10,Sim,Alto
+Moraes,48258.81,64,Varejo,PR,Sim,76,5,Não,Alto
+Cunha,48512.86,60,Tecnologia,RS,Sim,101,4,Não,Alto
+Almeida Pinto Ltda.,34788.88,42,Saúde,PR,Sim,110,10,Não,Alto
+Rodrigues,47729.91,4,Varejo,RJ,Não,5,9,Sim,Alto
+Cunha,38138.3,56,Varejo,SP,Sim,22,4,Não,Alto
+Rocha,16556.55,37,Serviços,RJ,Sim,46,5,Não,Alto
+Alves Farias - ME,7584.33,5,Tecnologia,BA,Não,33,7,Sim,Alto
+Campos,965.17,2,Indústria,SP,Não,87,8,Sim,Alto
+Ramos,22365.62,4,Serviços,BA,Não,39,10,Sim,Alto
+Almeida,12879.86,1,Varejo,RJ,Não,50,7,Sim,Alto
+Duarte,20092.38,72,Financeiro,SP,Sim,111,10,Não,Alto
+Nogueira,11340.72,79,Financeiro,BA,Sim,33,10,Não,Alto
+Ramos Melo Ltda.,34202.33,80,Financeiro,SP,Sim,13,10,Não,Alto
+Lopes,4961.6,2,Indústria,RJ,Não,96,6,Sim,Alto
+Freitas,48163.22,28,Financeiro,BA,Sim,111,10,Não,Alto
+Mendes Correia S.A.,49007.14,0,Varejo,MG,Não,102,6,Sim,Alto
+Castro,27060.33,2,Tecnologia,RS,Não,87,10,Sim,Alto
+Barbosa S.A.,31167.57,4,Varejo,BA,Não,29,10,Sim,Alto
+Pereira,7215.37,2,Serviços,RS,Não,86,8,Sim,Alto
+Costela,37242.32,53,Serviços,RS,Sim,84,1,Não,Alto
+Moraes Ramos Ltda.,22512.45,46,Tecnologia,RS,Sim,13,10,Não,Alto
+Correia,30058.72,6,Indústria,RJ,Sim,101,5,Sim,Alto
+Costela,39455.42,8,Indústria,RS,Sim,107,8,Sim,Alto
+Campos S/A,11189.59,42,Saúde,SP,Sim,100,2,Não,Alto
+Barros - ME,14225.1,16,Indústria,SP,Sim,70,4,Sim,Alto
+Costela,33222.35,16,Indústria,RS,Sim,2,5,Sim,Alto
+Caldeira,16526.69,33,Financeiro,PR,Sim,7,2,Sim,Alto
+Mendes,26541.23,60,Saúde,RS,Sim,58,5,Não,Alto
+Cavalcanti,5898.17,78,Saúde,MG,Sim,6,10,Não,Alto
+Mendes,23173.1,7,Serviços,BA,Sim,62,6,Sim,Alto
+Campos Porto S/A,7842.52,35,Saúde,RS,Sim,80,10,Não,Alto
+da Cunha da Mata - ME,30468.63,89,Financeiro,RS,Sim,15,10,Não,Alto
+da Cruz S/A,36181.58,55,Serviços,MG,Sim,58,3,Não,Alto
+Viana da Cunha Ltda.,15969.92,2,Serviços,SP,Não,20,10,Sim,Alto
+da Luz,5015.63,11,Financeiro,BA,Sim,56,1,Sim,Alto
+Castro,18946.02,71,Saúde,RS,Sim,8,9,Não,Alto
+Barros,16817.48,52,Serviços,BA,Sim,46,10,Não,Alto
+Martins,25616.92,84,Varejo,MG,Sim,62,3,Não,Alto
+Barros,40457.46,77,Financeiro,MG,Sim,119,10,Não,Alto
+Teixeira Rodrigues e Filhos,802.24,72,Varejo,RJ,Sim,85,6,Não,Alto
+Ferreira,37177.97,11,Indústria,PR,Sim,96,8,Não,Alto
+Moraes,38953.36,6,Saúde,SP,Sim,20,2,Sim,Alto
+Moraes,33861.45,3,Serviços,RS,Não,85,6,Sim,Alto
+da Paz Sales S/A,22381.19,1,Varejo,MG,Não,97,8,Sim,Alto
+da Costa Cavalcanti e Filhos,21780.72,5,Serviços,RS,Não,87,9,Sim,Alto
+das Neves,33523.06,28,Varejo,SP,Sim,51,9,Não,Alto
+Pinto,10618.94,17,Tecnologia,MG,Sim,98,4,Sim,Alto
+Dias,26862.83,64,Tecnologia,SP,Sim,72,10,Não,Alto
+Viana Ramos Ltda.,20155.02,55,Varejo,MG,Sim,3,7,Não,Alto
+Rezende,29000.08,5,Tecnologia,SP,Não,82,6,Sim,Alto
+Cardoso,20549.1,1,Serviços,BA,Não,103,9,Sim,Alto
+Caldeira e Filhos,46028.6,55,Indústria,PR,Sim,109,1,Não,Alto
+da Rocha,29649.13,50,Financeiro,MG,Sim,112,4,Não,Alto
+Nogueira,11467.82,9,Varejo,RS,Sim,66,10,Não,Alto
+Duarte,25742.63,2,Indústria,RJ,Não,94,10,Sim,Alto
+Cardoso Rezende - EI,5588.82,1,Indústria,BA,Não,23,9,Sim,Alto
+Nunes,4229.99,3,Saúde,PR,Não,97,9,Sim,Alto
+Duarte,4298.18,78,Serviços,PR,Sim,77,8,Não,Alto
+da Rocha,29226.31,57,Financeiro,RJ,Sim,117,9,Não,Alto
+Lima,40642.86,5,Financeiro,RJ,Não,11,8,Sim,Alto
+Fernandes Ltda.,2437.54,3,Saúde,RJ,Não,68,8,Sim,Alto
+Rezende,19634.93,5,Saúde,RJ,Não,110,10,Sim,Alto
+Vieira Teixeira e Filhos,17001.42,44,Financeiro,BA,Sim,40,10,Não,Alto
+Cunha,19901.92,39,Financeiro,MG,Sim,72,6,Não,Alto
+Nogueira Ltda.,40752.65,82,Saúde,MG,Sim,86,6,Não,Alto
+Silveira,11713.88,19,Varejo,RS,Sim,10,4,Sim,Alto
+da Mata,38658.3,84,Indústria,RS,Sim,44,9,Não,Alto
+Fernandes Ltda.,19147.63,23,Indústria,BA,Sim,107,9,Não,Alto
+Campos Duarte - EI,45246.73,47,Serviços,PR,Sim,87,9,Não,Alto
+Azevedo,38587.21,4,Indústria,RJ,Não,68,6,Sim,Alto
+Novaes,40162.33,32,Serviços,MG,Sim,7,10,Não,Alto
+Nascimento,27949.77,66,Tecnologia,SP,Sim,109,1,Não,Alto
+Rezende Farias e Filhos,38274.28,3,Indústria,PR,Não,116,8,Sim,Alto
+Lopes,5039.82,57,Varejo,PR,Sim,114,5,Não,Alto
+Viana S.A.,1895.28,83,Indústria,SP,Sim,43,2,Não,Alto
+Nogueira,22705.77,10,Indústria,RJ,Sim,3,4,Sim,Alto
+Duarte,6531.49,53,Serviços,SP,Sim,82,9,Não,Alto
+Silva,28964.85,37,Saúde,MG,Sim,55,0,Sim,Alto
+Araújo Cavalcanti S/A,12407.93,1,Varejo,RS,Não,86,10,Sim,Alto
+Monteiro Nascimento S.A.,48745.4,67,Saúde,RS,Sim,70,8,Não,Alto
+Jesus,1506.55,0,Tecnologia,MG,Não,82,6,Sim,Alto
+Rocha,40768.69,87,Financeiro,RJ,Sim,60,7,Não,Alto
+da Mota Carvalho - ME,40669.14,58,Indústria,SP,Sim,5,4,Não,Alto
+Ribeiro e Filhos,39659.91,40,Saúde,PR,Sim,120,4,Não,Alto
+da Mata,49461.57,2,Indústria,MG,Não,5,10,Sim,Alto
+Cardoso,18170.22,83,Varejo,MG,Sim,43,4,Não,Alto
+Viana,22129.09,5,Tecnologia,RJ,Não,57,6,Sim,Alto
+Nascimento Oliveira S/A,25062.06,2,Tecnologia,SP,Não,119,8,Sim,Alto
+Teixeira - EI,36490.53,55,Saúde,MG,Sim,78,2,Não,Alto
+Carvalho,16399.97,41,Tecnologia,PR,Sim,85,4,Não,Alto
+Farias S.A.,30329.77,1,Tecnologia,PR,Não,89,7,Sim,Alto
+Ramos,4214.54,2,Indústria,SP,Não,66,10,Sim,Alto
+Rezende - EI,18633.26,4,Indústria,BA,Não,5,9,Sim,Alto
+da Rosa,1782.71,63,Saúde,SP,Sim,67,6,Não,Alto
+da Rocha da Costa Ltda.,9046.49,0,Tecnologia,BA,Não,104,10,Sim,Alto
+da Mota Freitas Ltda.,17697.55,70,Tecnologia,RJ,Sim,70,4,Não,Alto
+da Rocha Moraes S/A,35734.55,46,Varejo,RJ,Sim,66,3,Não,Alto
+Sales,39707.25,63,Saúde,RS,Sim,4,5,Não,Alto
+Sales Teixeira Ltda.,18761.1,78,Varejo,MG,Sim,114,1,Não,Alto
+Nascimento,20208.92,4,Saúde,SP,Não,53,6,Sim,Alto
+da Rocha Rezende S/A,6703.68,5,Serviços,BA,Não,10,7,Sim,Alto
