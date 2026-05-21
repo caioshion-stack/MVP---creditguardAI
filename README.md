@@ -1,7 +1,7 @@
 # MVP - CreditGuardAI
 Este repositório contém um Modelo Viável de Produto (MVP) para análise e gestão de risco de cobrança baseado em dados reais de clientes.
 ## Objetivo
-Fornecer uma solução simples para classificar clientes em grupos de risco (Alto/Baixo) com base no histórico de atrasos e comportamento de pagamento, auxiliando na priorização e estratégias de cobrança.
+Fornecer uma solução simples para classificar clientes em grupos de risco (Alto/Baixo) e segmentos com base no histórico de atrasos e comportamento de pagamento, auxiliando na priorização e estratégias de cobrança.
 ## Conteúdo do Repositório
 - `clientes.csv` - Dados dos clientes com informações de faturas, atrasos e pagamentos.
 - `analise_risco.ipynb` - Notebook com análise, classificação de risco, visualizações e geração de relatórios.
